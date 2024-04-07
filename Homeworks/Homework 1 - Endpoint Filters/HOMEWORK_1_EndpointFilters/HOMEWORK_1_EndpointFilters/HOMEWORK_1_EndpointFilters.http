@@ -1,0 +1,6 @@
+@HOMEWORK_1_EndpointFilters_HostAddress = http://localhost:5198
+
+GET {{HOMEWORK_1_EndpointFilters_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

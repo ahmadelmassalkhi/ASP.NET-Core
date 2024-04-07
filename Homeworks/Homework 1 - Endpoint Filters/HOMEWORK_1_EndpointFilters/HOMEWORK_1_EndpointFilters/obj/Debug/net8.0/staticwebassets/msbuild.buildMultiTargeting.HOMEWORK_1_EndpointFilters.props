@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HOMEWORK_1_EndpointFilters.props" />
+</Project>
