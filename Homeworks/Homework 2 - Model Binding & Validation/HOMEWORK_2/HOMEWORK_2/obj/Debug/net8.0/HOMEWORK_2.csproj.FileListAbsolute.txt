@@ -1,0 +1,70 @@
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\appsettings.json
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\HOMEWORK_2.exe
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\HOMEWORK_2.deps.json
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\HOMEWORK_2.runtimeconfig.json
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\HOMEWORK_2.dll
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\HOMEWORK_2.pdb
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\MinimalApis.Extensions.dll
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\MiniValidation.dll
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\HOMEWORK_2.csproj.AssemblyReference.cache
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\HOMEWORK_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\HOMEWORK_2.AssemblyInfoInputs.cache
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\HOMEWORK_2.AssemblyInfo.cs
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\HOMEWORK_2.csproj.CoreCompileInputs.cache
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\HOMEWORK_2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\HOMEWORK_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\staticwebassets\msbuild.HOMEWORK_2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\staticwebassets\msbuild.build.HOMEWORK_2.props
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HOMEWORK_2.props
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HOMEWORK_2.props
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\scopedcss\bundle\HOMEWORK_2.styles.css
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\HOMEWORK_2.csproj.Up2Date
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\HOMEWORK_2.dll
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\refint\HOMEWORK_2.dll
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\HOMEWORK_2.pdb
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\HOMEWORK_2.genruntimeconfig.cache
+C:\Users\AHMAD\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\ref\HOMEWORK_2.dll
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\appsettings.json
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\HOMEWORK_2.exe
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\HOMEWORK_2.deps.json
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\HOMEWORK_2.runtimeconfig.json
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\HOMEWORK_2.dll
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\HOMEWORK_2.pdb
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\MinimalApis.Extensions.dll
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\MiniValidation.dll
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\HOMEWORK_2.csproj.AssemblyReference.cache
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\HOMEWORK_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\HOMEWORK_2.AssemblyInfoInputs.cache
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\HOMEWORK_2.AssemblyInfo.cs
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\HOMEWORK_2.csproj.CoreCompileInputs.cache
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\HOMEWORK_2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\HOMEWORK_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\staticwebassets\msbuild.HOMEWORK_2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\staticwebassets\msbuild.build.HOMEWORK_2.props
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HOMEWORK_2.props
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HOMEWORK_2.props
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\scopedcss\bundle\HOMEWORK_2.styles.css
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\HOMEWORK_2.csproj.Up2Date
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\HOMEWORK_2.dll
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\refint\HOMEWORK_2.dll
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\HOMEWORK_2.pdb
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\HOMEWORK_2.genruntimeconfig.cache
+C:\Users\AHMAD\Desktop\Homework 2 - Model Binding & Validation\HOMEWORK_2\HOMEWORK_2\obj\Debug\net8.0\ref\HOMEWORK_2.dll
