@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\AHMAD\source\repos\HOMEWORK_4\HOMEWORK_4
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/AHMAD/source/repos/HOMEWORK_4/HOMEWORK_4/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/AHMAD/source/repos/HOMEWORK_4/HOMEWORK_4/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
