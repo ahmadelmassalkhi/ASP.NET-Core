@@ -540,11 +540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AHMAD\\Desktop\\Homework 2 - Model Binding & Validation\\HOMEWORK_2\\HOMEWORK_2\\HOMEWORK_2.csproj",
+      "projectUniqueName": "C:\\Users\\AHMAD\\Desktop\\ASP.NET Core Web API\\Homeworks\\Homework 2 - Model Binding & Validation\\HOMEWORK_2\\HOMEWORK_2\\HOMEWORK_2.csproj",
       "projectName": "HOMEWORK_2",
-      "projectPath": "C:\\Users\\AHMAD\\Desktop\\Homework 2 - Model Binding & Validation\\HOMEWORK_2\\HOMEWORK_2\\HOMEWORK_2.csproj",
+      "projectPath": "C:\\Users\\AHMAD\\Desktop\\ASP.NET Core Web API\\Homeworks\\Homework 2 - Model Binding & Validation\\HOMEWORK_2\\HOMEWORK_2\\HOMEWORK_2.csproj",
       "packagesPath": "C:\\Users\\AHMAD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AHMAD\\Desktop\\Homework 2 - Model Binding & Validation\\HOMEWORK_2\\HOMEWORK_2\\obj\\",
+      "outputPath": "C:\\Users\\AHMAD\\Desktop\\ASP.NET Core Web API\\Homeworks\\Homework 2 - Model Binding & Validation\\HOMEWORK_2\\HOMEWORK_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AHMAD\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -610,7 +610,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

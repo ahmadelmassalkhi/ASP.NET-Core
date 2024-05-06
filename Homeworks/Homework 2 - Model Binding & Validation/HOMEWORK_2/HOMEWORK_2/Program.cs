@@ -328,7 +328,18 @@ a. Develop a GET endpoint /api/person/ to retrieve user information using BindAs
 The endpoint should utilize both route parameters and query string parameters to 
 identify the user and fetch their information. Conclude!!
  */
-
+app.MapGet("/api/person-a/{id?}/{name?}", (Person person) =>
+{
+    var results = people.Where(x => x.Id == person.Id || x.Name == person.Name).ToList();
+    if (results.Count == 0)
+    {
+        return Results.ValidationProblem(new Dictionary<string, string[]>
+        {
+                {"Person Not found: ", new [] {"Id and Name do not exist"} }
+        });
+    }
+    return Results.Ok(results);
+});
 
 /****************************************************************************************/
 
