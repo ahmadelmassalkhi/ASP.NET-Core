@@ -15,7 +15,7 @@
                 <th>First Name</th>
                 <th>Last Name</th>
                 <th>Email</th>
-                <th>Photo URL</th>
+                <th>Photo</th>
                 <th>Tools</th>
             </tr>
         </thead>
@@ -28,7 +28,7 @@
                     <td>@cv.FirstName</td>
                     <td>@cv.LastName</td>
                     <td>@cv.Email</td>
-                    <td>@cv.PhotoURL</td>
+                    <td><a href="@cv.PhotoURL">@cv.FirstName</a></td>
                     <td>
                         <form method="post" asp-page-handler="Delete" asp-route-id="@cv.Id">
                             <button type="submit" class="btn btn-danger">Delete</button>

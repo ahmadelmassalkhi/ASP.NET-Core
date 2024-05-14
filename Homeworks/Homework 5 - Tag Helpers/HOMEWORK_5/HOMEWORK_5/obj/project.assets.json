@@ -2626,11 +2626,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AHMAD\\Desktop\\HOMEWORK_5\\HOMEWORK_5\\HOMEWORK_5.csproj",
+      "projectUniqueName": "C:\\Users\\AHMAD\\Desktop\\New folder\\Homeworks\\Homework 5 - Tag Helpers\\HOMEWORK_5\\HOMEWORK_5\\HOMEWORK_5.csproj",
       "projectName": "HOMEWORK_5",
-      "projectPath": "C:\\Users\\AHMAD\\Desktop\\HOMEWORK_5\\HOMEWORK_5\\HOMEWORK_5.csproj",
+      "projectPath": "C:\\Users\\AHMAD\\Desktop\\New folder\\Homeworks\\Homework 5 - Tag Helpers\\HOMEWORK_5\\HOMEWORK_5\\HOMEWORK_5.csproj",
       "packagesPath": "C:\\Users\\AHMAD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AHMAD\\Desktop\\HOMEWORK_5\\HOMEWORK_5\\obj\\",
+      "outputPath": "C:\\Users\\AHMAD\\Desktop\\New folder\\Homeworks\\Homework 5 - Tag Helpers\\HOMEWORK_5\\HOMEWORK_5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AHMAD\\AppData\\Roaming\\NuGet\\NuGet.Config",
