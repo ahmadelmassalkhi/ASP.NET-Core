@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AHMAD\\source\\repos\\HOMEWORK_3\\HOMEWORK_3\\HOMEWORK_3.csproj": {}
+    "C:\\Users\\AHMAD\\Desktop\\ASP.NET Core Web API\\Homeworks\\Homework 3 - Dependency Injection & Entity Framework Core\\HOMEWORK_3\\HOMEWORK_3\\HOMEWORK_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AHMAD\\source\\repos\\HOMEWORK_3\\HOMEWORK_3\\HOMEWORK_3.csproj": {
+    "C:\\Users\\AHMAD\\Desktop\\ASP.NET Core Web API\\Homeworks\\Homework 3 - Dependency Injection & Entity Framework Core\\HOMEWORK_3\\HOMEWORK_3\\HOMEWORK_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AHMAD\\source\\repos\\HOMEWORK_3\\HOMEWORK_3\\HOMEWORK_3.csproj",
+        "projectUniqueName": "C:\\Users\\AHMAD\\Desktop\\ASP.NET Core Web API\\Homeworks\\Homework 3 - Dependency Injection & Entity Framework Core\\HOMEWORK_3\\HOMEWORK_3\\HOMEWORK_3.csproj",
         "projectName": "HOMEWORK_3",
-        "projectPath": "C:\\Users\\AHMAD\\source\\repos\\HOMEWORK_3\\HOMEWORK_3\\HOMEWORK_3.csproj",
+        "projectPath": "C:\\Users\\AHMAD\\Desktop\\ASP.NET Core Web API\\Homeworks\\Homework 3 - Dependency Injection & Entity Framework Core\\HOMEWORK_3\\HOMEWORK_3\\HOMEWORK_3.csproj",
         "packagesPath": "C:\\Users\\AHMAD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AHMAD\\source\\repos\\HOMEWORK_3\\HOMEWORK_3\\obj\\",
+        "outputPath": "C:\\Users\\AHMAD\\Desktop\\ASP.NET Core Web API\\Homeworks\\Homework 3 - Dependency Injection & Entity Framework Core\\HOMEWORK_3\\HOMEWORK_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AHMAD\\AppData\\Roaming\\NuGet\\NuGet.Config",

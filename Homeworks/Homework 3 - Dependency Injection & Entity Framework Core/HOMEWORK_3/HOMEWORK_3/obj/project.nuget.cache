@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UrCArLXuf1xzMADLIG5bR+mpbl12RgSb0nUAOhAW7RLoQiLHn7Clp2wmHtLM0zPajOlRneBk/fEVB8yL3Tbi3g==",
+  "dgSpecHash": "9ezyZq+4RzuLx68q0vf6Dyy/v2Qsku6cqmJ4y537gY1yO9y4r1Eab2n5JbwW+PccBHPI+CuHCrKoIXCj+IhsBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AHMAD\\source\\repos\\HOMEWORK_3\\HOMEWORK_3\\HOMEWORK_3.csproj",
+  "projectFilePath": "C:\\Users\\AHMAD\\Desktop\\ASP.NET Core Web API\\Homeworks\\Homework 3 - Dependency Injection & Entity Framework Core\\HOMEWORK_3\\HOMEWORK_3\\HOMEWORK_3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AHMAD\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\AHMAD\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.4\\microsoft.aspnetcore.openapi.8.0.4.nupkg.sha512",
